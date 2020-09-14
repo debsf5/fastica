@@ -1,6 +1,6 @@
 import wave
 
-infiles = ["a0007heartsoundwav.wav", "sound_2.wav"]
+infiles = ["a0007 heart sound wav.wav", "122824__geodylabs__air-conditioning-hotel-room.mp3"]
 outfile = "sounds.wav"
 
 data= []
